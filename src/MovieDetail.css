@@ -1,0 +1,18 @@
+.movie-info {
+    background-color: dimgray;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+}
+
+.movie-details {
+    background-color: #808080;
+}
+
+.movie-poster img{
+        width: 100px;
+}
+
+.cast-image {
+    width: 200px;
+}
